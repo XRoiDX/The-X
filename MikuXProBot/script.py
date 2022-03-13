@@ -1,11 +1,11 @@
 PM_START_TEXT = """────「 [{}]({}) 」────\n*Hello {}!*\n*I'm An Anime Themed Advance Group Management Bot*\n\n❍ *Uptime:* `{}`\n❍ `{}` *Users, Across* `{}` *Chats*\n\n*Click The Help Button To Get List Of My Commands.*\nThanks To @MikuXProBot For Repo"""
 
 MIKU_IMG = (
-      "https://telegra.ph/file/3f06de01df5bc3c3cf343.jpg",
-      "https://telegra.ph//file/05311caed13176f7d35e5.jpg",
-      "https://telegra.ph//file/88976abda0d0af9d4a517.jpg",
-      "https://telegra.ph//file/b388f473ddfb9cc727bb1.jpg",
-      "https://telegra.ph//file/d950844dad2e473950470.jpg",
+      "https://telegra.ph/file/a19aad712f30bca10568d.jpg",
+      "https://telegra.ph/file/72fb184e6d00455618f93.jpg",
+      "https://telegra.ph/file/a19aad712f30bca10568d.jpg",
+      "https://telegra.ph/file/72fb184e6d00455618f93.jpg",
+      "https://telegra.ph/file/a19aad712f30bca10568d.jpg",
 )
 
 TEXXT = "<b>Heya</b> {} <b>Do you Like me?</b>"
